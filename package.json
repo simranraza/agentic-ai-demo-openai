@@ -1,0 +1,16 @@
+{
+  "name": "fake-store-agentic-function",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "tools.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "openai": "^6.22.0"
+  }
+}
